@@ -1,0 +1,23 @@
+{
+  "name": "myapp1",
+  "version": "1.0.0",
+  "description": "Source code repo for myapp1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteski22/myapp1.git"
+  },
+  "author": "peteski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteski22/myapp1/issues"
+  },
+  "homepage": "https://github.com/peteski22/myapp1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
